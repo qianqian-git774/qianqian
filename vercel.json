@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "framework": null,
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "functions": {
+    "api/match.py": {
+      "maxDuration": 30
+    }
+  }
+}
